@@ -23,13 +23,13 @@ This project is a beginner's guide to React.js using hooks. We will be building 
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/your-username/react-todo-app.git
+   git clone https://github.com/your-username/reactjs-memo.git
    ```
 
 2. Navigate to the project directory
 
    ```bash
-   cd react-todo-app
+   cd reactjs-memo
    ```
 
 3. Install the dependencies
